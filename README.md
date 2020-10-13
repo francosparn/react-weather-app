@@ -1,3 +1,11 @@
+## Preview
+
+Weather application developed in React that uses an API called OpenWeatherMap. For its design, HTML and a framework called Skeleton CSS were used to style it. This application also uses styled components.
+
+![](https://i.imgur.com/ei9GNpQ.png)
+
+![](https://i.imgur.com/aIUYN4S.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
